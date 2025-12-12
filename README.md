@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first real website using html. It is about recipes. It's purpose is to help me to develop my web development skills.
